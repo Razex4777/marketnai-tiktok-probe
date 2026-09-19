@@ -1,0 +1,6 @@
+{
+  "name": "marketnai-tiktok-probe",
+  "private": true,
+  "type": "module",
+  "dependencies": { "playwright": "1.52.0" }
+}
